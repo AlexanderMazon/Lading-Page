@@ -15,7 +15,7 @@ overflow: hidden;
     
     width: 530px;
     height: 625px;
-    background-image:url('/img/img1.png');
+    background-image:url('./img/img1.png');
     position: absolute;
     bottom: -100%;
     left: 30%;
@@ -27,7 +27,7 @@ content:'';
 position:absolute;
 width: 530px;
 height: 625px;
-background-image: url('/img/img2.png');
+background-image: url('./img/img2.png');
 left: 0px;
 z-index: -1;
 }
